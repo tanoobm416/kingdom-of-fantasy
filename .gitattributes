@@ -1,0 +1,3 @@
+*.pdf binary
+dist/chunks/*.js -whitespace
+dist/assets/*OFL.txt -whitespace
